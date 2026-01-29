@@ -1,6 +1,6 @@
 # Telecom-Customer-Churn-Analysis
  📊 Telecom Customer Churn Analysis
-# 📌 Project Overview
+## 📌 Project Overview
 Customer churn is one of the most vital metrics for telecom companies. Since acquiring a new customer is significantly more expensive than retaining an existing one, understanding why customers leave is crucial for long-term profitability.
 
 This project analyzes a telecom dataset to uncover the drivers behind customer attrition. Using Python, EDA, and Statistical Visualization, I’ve identified the "red flags" that signal a customer is likely to leave.

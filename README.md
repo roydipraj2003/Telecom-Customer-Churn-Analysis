@@ -1,7 +1,7 @@
 # Telecom-Customer-Churn-Analysis
  Telecom Customer Churn Analysis
-📌 Project Overview
 
+📌 Project Overview
 Customer churn is a critical problem for telecom companies, as retaining existing customers is more cost-effective than acquiring new ones.
 This project focuses on analyzing a real-world telecom customer dataset to identify key factors influencing customer churn using data cleaning, exploratory data analysis (EDA), and visualization techniques.
 

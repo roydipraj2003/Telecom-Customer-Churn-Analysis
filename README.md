@@ -5,7 +5,7 @@ Customer churn is one of the most vital metrics for telecom companies. Since acq
 
 This project analyzes a telecom dataset to uncover the drivers behind customer attrition. Using Python, EDA, and Statistical Visualization, I’ve identified the "red flags" that signal a customer is likely to leave.
 
-🔍 Key Objectives
+- 🔍 Key Objectives
 Clean & Preprocess: Transform raw data into an analysis-ready format.
 
 Identify Patterns: Determine which customer segments (contract types, demographics) are most at risk.
